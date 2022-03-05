@@ -1,4 +1,4 @@
-public class tokenGenerator {
+public class generator {
     public static String getTokenBy(int size) {
         String allChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                 + "0123456789"
